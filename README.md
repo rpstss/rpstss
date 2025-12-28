@@ -92,7 +92,7 @@ Bachelor of Science in AI Convergence (Class of 2023, In Progress)
   - 2-1 Semester: 4.5/4.5 (Rank 1/84, Full Scholarship)
   - 2-2 Semester: 4.45/4.5 (Performance Scholarship Expected)
 
-**Goyang International High School** (2019-2021)
+**Goyang Global High School** (2019-2021)
 
 ---
 
