@@ -7,67 +7,65 @@ Soongsil University, AI Convergence Department
 
 ## 🔬 About Me
 
-AI researcher specializing in **autonomous driving perception** and **efficient deep learning systems**. Currently developing multimodal perception systems with a focus on model optimization and computer vision. Passionate about solving real-world problems through cutting-edge AI technologies.
+Undergraduate AI Researcher at **VIP Lab**, specializing in **efficient multimodal perception for autonomous driving**.
 
-**Academic Excellence**: GPA 4.42/4.5 • Top 1% (Rank 1/84 in 2-1 semester)
+**Research Journey**  
+Started with **Robotics Control** (ROS2, F1TENTH) and pivoted to **Computer Vision**, inspired by the industry shift toward camera-centric systems. Currently focused on **Model Optimization** (Pruning, Quantization) to deploy high-performance perception AI on resource-constrained edge devices.
+
+> **Academic Excellence**: GPA **4.42 / 4.5** • **Top 1%** (Ranked 1st in Dept. during 2-1 semester)
 
 ---
 
 ## 🚀 Current Work
 
 **VIP Lab, Soongsil University** (Jan 2026 - Present)  
-*Undergraduate Research Intern | NEIT-AX Winter Internship Program*
+_Undergraduate Research Intern | NEIT-AX Winter Internship Program_
 
-### Project: Efficient Multimodal Perception for Autonomous Driving
+### 📌 Project: Efficient Multimodal Perception for Autonomous Driving
+**Status**: 🔄 In Progress (Jan - Mar 2026)
 
-Integration of lightweight YOLO and vision-language models for autonomous vehicle perception systems.
+Developing a lightweight perception system by integrating **YOLO-CLIP** models and utilizing **Cosmos-generated synthetic data** in **CARLA** simulation.
 
 **Key Components**:
-- 🔍 **YOLO Optimization**: Pruning and quantization techniques for efficient object detection
-- 🤖 **Multimodal Fusion**: Integration of vision and language models
-- 🎯 **Simulation & Validation**: End-to-end testing in autonomous driving environments
 
-**Tech Stack**: C++, Python, PyTorch, ROS2, CUDA  
+- ⚡ **Lightweight Multimodal AI**: Pruning YOLOv8 & integrating CLIP for real-time context understanding
+- 🌌 **Generative Data Pipeline**: Augmenting training datasets using **NVIDIA Cosmos** (World Model)
+- 🚗 **Simulation & Validation**: System testing and verification within **CARLA** environments
+
+**Tech Stack**: Python, PyTorch, YOLOv8, CLIP, NVIDIA Cosmos, CARLA  
 **Project Repository**: [Coming soon]
 
 ---
 
 ## 💻 Tech Stack
 
-### **Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<div align="center">
 
-### **Deep Learning & ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Languages & Tools**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### **Data & Visualization**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+**AI & Computer Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Ultralytics](https://img.shields.io/badge/Ultralytics-0052CC?style=flat-square&logo=ultralytics&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-### **Robotics & AI**
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+**Robotics & Simulation**  
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![CARLA](https://img.shields.io/badge/CARLA-000000?style=flat-square&logo=carla&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-F57728?style=flat-square&logo=gazebo&logoColor=white)
 
-### **Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+**Data Science**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏆 Achievements
 
 ### Awards
+- **Code Challenge (AICC2025)** - Best Performance Award (Oct 2025)
+  - *Soongsil AI Convergence Department*
+
 - **2023 Soongsil AI Convergence Contest** - Encouragement Award (Nov 2023)
   - *AI News Summarization Web Service for Busy Professionals*
 
-- **Code Challenge (AICC2025)** - Best Performance Award (Oct 2025)
-  - *Soongsil AI Convergence Department*
 
 ### Certifications
 - **ADSP** (Advanced Data Analytics Semi-Professional) - Sep 2023
@@ -87,10 +85,10 @@ Integration of lightweight YOLO and vision-language models for autonomous vehicl
 
 **Soongsil University**  
 Bachelor of Science in AI Convergence (Class of 2023, In Progress)
-- **GPA**: 4.42/4.5
-  - 1-1 Semester: 4.31/4.5 (Rank 7/84, 25% Scholarship)
-  - 2-1 Semester: 4.5/4.5 (Rank 1/84, Full Scholarship)
-  - 2-2 Semester: 4.45/4.5 (Performance Scholarship Expected)
+- **Cumulative GPA**: **4.42 / 4.5** (Top 1%)
+  - **2-1 Semester**: 4.5 / 4.5 (Rank 1/84, **Full Scholarship**)
+  - **2-2 Semester**: 4.45 / 4.5 (Performance Scholarship Expected)
+  - **1-1 Semester**: 4.31 / 4.5 (Rank 7/84)
 
 **Goyang Global High School** (2019-2021)
 
@@ -106,6 +104,6 @@ Bachelor of Science in AI Convergence (Class of 2023, In Progress)
 
 <div align="center">
 
-**Constantly learning. Building the future of autonomous driving.** 🤖
+**"Constantly learning. Building the future of autonomous driving."** 🤖
 
 </div>
