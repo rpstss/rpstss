@@ -12,7 +12,7 @@ Undergraduate AI Researcher at **VIP Lab**, specializing in **efficient multimod
 **Research Journey**  
 Started with **Robotics Control** (ROS2, F1TENTH) and pivoted to **Computer Vision**, inspired by the industry shift toward camera-centric systems. Currently focused on **Model Optimization** (Pruning, Quantization) to deploy high-performance perception AI on resource-constrained edge devices.
 
-> **Academic Excellence**: GPA **4.42 / 4.5** • **Top 1%** (Ranked 1st in Dept. during 2-1 semester)
+> **Academic Excellence**: GPA **4.42 / 4.5** (Ranked 1st in Dept. up to 2-1 semester)
 
 ---
 
@@ -85,10 +85,10 @@ Developing a lightweight perception system by integrating **YOLO-CLIP** models a
 
 **Soongsil University**  
 Bachelor of Science in AI Convergence (Class of 2023, In Progress)
-- **Cumulative GPA**: **4.42 / 4.5** (Top 1%)
-  - **2-1 Semester**: 4.5 / 4.5 (Rank 1/84, **Full Scholarship**)
-  - **2-2 Semester**: 4.45 / 4.5 (Performance Scholarship Expected)
-  - **1-1 Semester**: 4.31 / 4.5 (Rank 7/84)
+- **Cumulative GPA**: **4.42 / 4.5** (Rank 1/78)
+  - **2-1 Semester**: 4.45 / 4.5 (Academic Scholarship Expected)
+  - **1-2 Semester**: 4.5 / 4.5 (**Full Academic Scholarship**)
+  - **1-1 Semester**: 4.31 / 4.5 (**Quarter Academic Scholarship**)
 
 **Goyang Global High School** (2019-2021)
 
